@@ -370,20 +370,21 @@
 }
 
 .archive-figure__image {
-  height: clamp(480px, 65vw, 850px);
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
   overflow: hidden;
   background: var(--color-surface);
 
   img {
-    width: 100%;
-    height: 100%;
-    filter: grayscale(1) sepia(0.1) contrast(1.15);
-    object-fit: cover;
-    transition: transform 900ms ease;
-  }
-
-  &:hover img {
-    transform: scale(1.025);
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 850px;
+    object-fit: contain;
   }
 }
 

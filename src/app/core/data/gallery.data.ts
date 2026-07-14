@@ -43,10 +43,10 @@ export const GALLERY_IMAGES: GalleryImage[] = [
     culture: 'Славянская традиция',
     region: 'Восточная Европа',
     category: 'Водные духи',
-    image:
-      'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1800&q=90',
+        image:
+      'https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1800&q=90',
     thumbnail:
-      'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80',
+      'https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=900&q=80',
     description:
       'Вода скрывает глубину и превращает знакомый человеческий силуэт в опасный и недостижимый образ.',
     archiveNumber: 'IMG–003',
@@ -145,10 +145,14 @@ export const GALLERY_IMAGES: GalleryImage[] = [
     culture: 'Славянская традиция',
     region: 'Восточная Европа',
     category: 'Лесные духи',
-    image:
-      'https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1800&q=90',
+
+image:
+      'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1800&q=90',
     thumbnail:
-      'https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=900&q=80',
+      'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80',
+
+
+
     description:
       'Повторяющийся лесной пейзаж разрушает чувство направления и заставляет человека сомневаться в собственной памяти.',
     archiveNumber: 'IMG–009',

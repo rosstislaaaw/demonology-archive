@@ -1,4 +1,4 @@
-﻿import { Creature } from '../models/creature.model';
+import { Creature } from '../models/creature.model';
 
 export const CREATURES: Creature[] = [
   {
@@ -35,7 +35,7 @@ export const CREATURES: Creature[] = [
       'В творческом проекте Баба-яга может быть не прямым антагонистом, а неоднозначной хранительницей запретной территории, которая испытывает героя и решает, достоин ли он продолжить путь.',
 
     mainImage:
-      'assets/creatures/baba-yaga-main.jpg',
+      'https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -75,7 +75,7 @@ export const CREATURES: Creature[] = [
       'Подходит для создания изменяющейся игровой локации, где сама среда становится противником, а герой не может доверять карте, звукам и знакомым ориентирам.',
 
     mainImage:
-      'assets/creatures/leshy-main.jpg',
+      'https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -115,7 +115,7 @@ export const CREATURES: Creature[] = [
       'Образ можно использовать как персонажа, который принимает форму личной утраты героя и заманивает его обещанием вернуть прошлое.',
 
     mainImage:
-      'assets/creatures/rusalka-main.jpg',
+      'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -155,7 +155,7 @@ export const CREATURES: Creature[] = [
       'В сценарии банши может появляться задолго до трагедии, заставляя персонажей сомневаться, кому именно предназначено предупреждение.',
 
     mainImage:
-      'assets/creatures/banshee-main.jpg',
+      'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -195,7 +195,7 @@ export const CREATURES: Creature[] = [
       'Подходит для сюжета, где персонажи слышат имя будущей жертвы не полностью и пытаются понять, кого преследует всадник.',
 
     mainImage:
-      'assets/creatures/dullahan-main.png',
+      'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -235,7 +235,7 @@ export const CREATURES: Creature[] = [
       'Юки-онна может стать персонажем, который постепенно стирает воспоминания героя, оставляя вместо них ощущение спокойствия и холода.',
 
     mainImage:
-      'assets/creatures/yuki-onna-main.png',
+      'https://images.unsplash.com/photo-1483347756197-71ef80e95f73?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -275,7 +275,7 @@ export const CREATURES: Creature[] = [
       'В игре или сценарии они могут быть бывшими людьми, чья внешность постепенно изменяется под влиянием подавленной ярости.',
 
     mainImage:
-      'assets/creatures/oni-main.png',
+      'https://images.unsplash.com/photo-1528360983277-13d401cdc186?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -315,7 +315,7 @@ export const CREATURES: Creature[] = [
       'Персонаж может появляться не возле настоящей воды, а возле мест, связанных с подавленными воспоминаниями и чувством вины.',
 
     mainImage:
-      'assets/creatures/la-llorona-main.jpg',
+      'https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -362,7 +362,7 @@ export const CREATURES: Creature[] = [
       'В игре каппа может быть существом, сила которого зависит от воды на его голове. Игроку необязательно побеждать его силой: можно заставить ёкая поклониться, осушить территорию или заключить с ним соглашение.',
 
     mainImage:
-      'assets/creatures/kappa-main.png',
+      'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -409,7 +409,7 @@ export const CREATURES: Creature[] = [
       'Тэнгу можно представить как необязательного противника-наставника. Он не убивает героя сразу, а создаёт испытания, разоблачающие его самоуверенность и слабые стороны.',
 
     mainImage:
-      'assets/creatures/tengu-main.png',
+      'https://images.unsplash.com/photo-1528360983277-13d401cdc186?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -456,7 +456,7 @@ export const CREATURES: Creature[] = [
       'Образ подходит для истории о транспорте или средстве спасения, которое постепенно начинает управлять человеком. Внешне безопасный объект может вести героя туда, куда нужно самому существу.',
 
     mainImage:
-      'assets/creatures/kelpie-main.png',
+      'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -503,7 +503,7 @@ export const CREATURES: Creature[] = [
       'Пука может стать проводником с непредсказуемой системой репутации. Он помогает герою только тогда, когда это соответствует собственным непонятным правилам.',
 
     mainImage:
-      'assets/creatures/puca-main.png',
+      'https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -550,7 +550,7 @@ export const CREATURES: Creature[] = [
       'Вместо обычного зомби драугр может быть противником, привязанным к конкретному предмету, обещанию или территории. Уничтожение тела не решает проблему, пока не устранена причина возвращения.',
 
     mainImage:
-      'assets/creatures/draugr-main.png',
+      'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -597,7 +597,7 @@ export const CREATURES: Creature[] = [
       'Сильнее всего образ работает не как автоматический исполнитель желаний, а как участник договора, который буквально соблюдает слова человека и использует каждую неточность.',
 
     mainImage:
-      'assets/creatures/djinn-main.png',
+      'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -644,7 +644,7 @@ export const CREATURES: Creature[] = [
       'Ифрит может быть не боссом, которого необходимо победить, а катастрофой, связанной с определённым договором. Игрок должен понять историю конфликта и найти способ изменить его условия.',
 
     mainImage:
-      'assets/creatures/ifrit-main.png',
+      'https://images.unsplash.com/photo-1528360983277-13d401cdc186?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -692,7 +692,7 @@ export const CREATURES: Creature[] = [
       'Гуль может копировать не только внешность, но и отдельные воспоминания своих жертв. Ошибки в поведении позволяют игроку понять, кто из персонажей уже был заменён.',
 
     mainImage:
-      'assets/creatures/ghoul-main.png',
+      'https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -739,7 +739,7 @@ export const CREATURES: Creature[] = [
       'В сюжете упырь может возвращаться не ради случайных убийств, а для восстановления нарушенного порядка. Герои должны выяснить, какая ошибка была допущена во время его смерти или погребения.',
 
     mainImage:
-      'assets/creatures/upyr-main.png',
+      'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -787,7 +787,7 @@ export const CREATURES: Creature[] = [
       'В игре мара может быть существом, которое невозможно увидеть при прямом взгляде. Игрок замечает её через отражения, изменение звука и постепенно ухудшающийся сон персонажа.',
 
     mainImage:
-      'assets/creatures/mara-main.png',
+      'https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -835,7 +835,7 @@ export const CREATURES: Creature[] = [
       'Нёкк может копировать звуки, которые игрок уже слышал ранее: голос союзника, музыку безопасной зоны или сигнал спасения.',
 
     mainImage:
-      'assets/creatures/nokk-main.png',
+      'https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -883,7 +883,7 @@ export const CREATURES: Creature[] = [
       'Кракен необязательно должен полностью появляться на экране. Его присутствие можно показывать через движение воды, исчезновение кораблей и отдельные части тела.',
 
     mainImage:
-      'assets/creatures/kraken-main.png',
+      'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -931,7 +931,7 @@ export const CREATURES: Creature[] = [
       'Его свист можно превратить в игровую механику. Игрок должен научиться оценивать опасность противоположно обычной логике звука.',
 
     mainImage:
-      'assets/creatures/el-silbon-main.png',
+      'https://images.unsplash.com/photo-1485236715568-ddc5ee6ca227?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -979,7 +979,7 @@ export const CREATURES: Creature[] = [
       'Такого антагониста лучше не превращать в обычного монстра. Он может быть частью организации, которая скрывает эксплуатацию под видом технологического или медицинского прогресса.',
 
     mainImage:
-      'assets/creatures/pishtako-main.png',
+      'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -1027,7 +1027,7 @@ export const CREATURES: Creature[] = [
       'Его анимация должна строиться не как движение раненого человека, а как полностью самостоятельная система, идеально приспособленная к асимметричному телу.',
 
     mainImage:
-      'assets/creatures/nasnas-main.png',
+      'https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
@@ -1075,7 +1075,7 @@ export const CREATURES: Creature[] = [
       'Персонажа можно использовать как неоднозначного защитника города. Её плач предупреждает о катастрофе, но жители ошибочно воспринимают его как причину несчастья.',
 
     mainImage:
-      'assets/creatures/cihuacoatl-main.png',
+      'https://images.unsplash.com/photo-1528360983277-13d401cdc186?auto=format&fit=crop&w=1400&q=85',
 
     gallery: [],
     sources: [],
